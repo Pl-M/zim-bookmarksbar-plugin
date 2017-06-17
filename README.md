@@ -3,6 +3,7 @@
 This is a plugin for Zim-wiki program (http://zim-wiki.org/).  
 This plugin can be used in Zim 0.63/0.65.      
 
+**The updates from this version were merged into Zim 0.66.**
 
 ### What is new
 * A new option to change maximum number of bookmarks is available from the plugin settings.
