@@ -2,9 +2,7 @@
 
 This is a plugin for Zim-wiki program (http://zim-wiki.org/).  
 This plugin can be used in Zim 0.63/0.65.      
-If you find any bugs, please let me know.
 
-As of zim 0.64 BookmarksBar plugin is part of Zim. Here is an updated version.
 
 ### What is new
 * A new option to change maximum number of bookmarks is available from the plugin settings.
